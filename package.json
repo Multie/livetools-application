@@ -1,0 +1,22 @@
+{
+  "name": "livetools-application",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Multie/livetools-application.git"
+  },
+  "keywords": [
+    "livetools"
+  ],
+  "author": "Malte Hering <malte.hering@outlook.de>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Multie/livetools-application/issues"
+  },
+  "homepage": "https://github.com/Multie/livetools-application#readme"
+}
